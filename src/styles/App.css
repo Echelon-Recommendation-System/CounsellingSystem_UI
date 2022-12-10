@@ -16,7 +16,7 @@
 
 #navbar ul li * {
     font-family: 'Livvic';
-    font-size: 28px;
+    font-size: 22px;
     color: #ffffff;
     text-decoration: none;
 }
@@ -39,7 +39,7 @@
 
 #meetingImg{
     position: absolute;
-    top: 300px;
+    top: 200px;
     left: 120px;
     height: 500px;
     width: 500px;
@@ -51,7 +51,7 @@
     top: 250px;
     right: 100px;
     font-family: 'ABeeZee';
-    font-size: 110px;
+    font-size: 80px;
     font-weight: bold;
     color: white;
 }
