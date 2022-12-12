@@ -51,18 +51,18 @@
 
 #meetingImg{
     position: absolute;
-    top: 20rem;
-    left: 12rem;
-    height: 64rem;
+    top: 18rem;
+    left: 10rem;
+    height: 58rem;
 }
 
 #homeTxt{
     position: absolute;
     width: 75rem;
     top: 25rem;
-    right: 8rem;
+    right: 6rem;
     font-family: 'ABeeZee';
-    font-size: 10rem;
+    font-size: 8rem;
     font-weight: bold;
     color: var(--white);
 }
